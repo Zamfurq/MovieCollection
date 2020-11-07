@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <SwitchPreference
+        android:key="@string/sound_key"
+        app:iconSpaceReserved="false"
+        android:defaultValue="false"
+        android:fontFamily="@font/playfair"
+        android:title="@string/sound"
+        android:summaryOn="@string/on"
+        android:summaryOff="@string/off" />
+
+    <SwitchPreference
+        android:key="@string/sfx_key"
+        app:iconSpaceReserved="false"
+        android:defaultValue="false"
+        android:fontFamily="@font/playfair"
+        android:title="@string/sfx"
+        android:summaryOn="@string/on"
+        android:summaryOff="@string/off" />
+
+</PreferenceScreen>

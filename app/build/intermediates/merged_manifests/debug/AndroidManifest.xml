@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nusabasa"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz7Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz6Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz5Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz7Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz4Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz3Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz2Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuizActivity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz6Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz5Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz4Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz3Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz2Activity" />
+        <activity android:name="com.example.nusabasa.bl.BalineseActivity" />
+        <activity android:name="com.example.nusabasa.ResultActivity" />
+        <activity android:name="com.example.nusabasa.jv.QuizActivity" />
+        <activity android:name="com.example.nusabasa.jv.JavaneseActivity" />
+        <activity
+            android:name="com.example.nusabasa.SplashActivity"
+            android:theme="@style/NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.nusabasa.AchievementActivity" />
+        <activity android:name="com.example.nusabasa.AbouutActivity" />
+        <activity android:name="com.example.nusabasa.SettingActivity" />
+        <activity android:name="com.example.nusabasa.PlayActivity" />
+        <activity
+            android:name="com.example.nusabasa.MainActivity"
+            android:theme="@style/NoActionBar" />
+    </application>
+
+</manifest>
