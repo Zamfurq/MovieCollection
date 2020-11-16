@@ -8,20 +8,28 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_1.png"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_abs_layout.xml.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\abs_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_29.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_29.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_option_border_bg.xml.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\default_option_border_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz10.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_quiz10.xml"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_option_border_bg.xml.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\default_option_border_bg.xml"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -44,6 +52,10 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_15.png"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_30.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_30.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bali_quiz7.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_bali_quiz7.xml"
     },
@@ -52,12 +64,20 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\javanese_4.png"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_8.png.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_8.png"
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_14.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_14.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_6.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_6.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_8.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_8.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_22.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_22.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_white_batik.jpg.flat",
@@ -74,6 +94,10 @@
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_13.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_13.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -100,6 +124,10 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_22.png"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_23.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_23.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_javanese_3.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\javanese_3.png"
     },
@@ -112,28 +140,32 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_achievement.xml"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_result.xml"
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_2.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_2.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_2.png.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_2.png"
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_result.xml"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_balinese_4.png.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\balinese_4.png"
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_balinese_4.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\balinese_4.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_16.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_16.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_3.png.flat",
@@ -160,6 +192,14 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_bali_quiz9.xml"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_24.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_24.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_19.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_19.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_8.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_8.png"
     },
@@ -172,12 +212,16 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_13.png"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_javanese_2.png.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\javanese_2.png"
-    },
-    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_javanese.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_javanese.xml"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_27.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_27.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_javanese_2.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\javanese_2.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_balinese_1.png.flat",
@@ -186,6 +230,10 @@
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_21.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_21.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -208,12 +256,12 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_bali_quiz6.xml"
     },
     {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_emoji_events_24.xml.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_baseline_emoji_events_24.xml"
-    },
-    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bali_quiz.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_bali_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_emoji_events_24.xml.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_baseline_emoji_events_24.xml"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_23.png.flat",
@@ -240,16 +288,16 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bali_quiz10.xml.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_bali_quiz10.xml"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_achievement.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\item_achievement.xml"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz4.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_quiz4.xml"
-    },
-    {
-        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bali_quiz10.xml.flat",
-        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_bali_quiz10.xml"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_3.png.flat",
@@ -272,6 +320,10 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_18.png"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_18.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_18.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
@@ -284,12 +336,20 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\selected_option.xml"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_11.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_11.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct_option.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\correct_option.xml"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_26.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_26.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_17.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_17.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_balinese_3.png.flat",
@@ -306,6 +366,10 @@
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_12.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_12.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_trophy.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\trophy.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_4.png.flat",
@@ -336,6 +400,10 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_quiz9.xml"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_26.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_26.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -356,6 +424,10 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_play.xml"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_20.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_20.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_jawa_24.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_24.png"
     },
@@ -370,6 +442,10 @@
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bali_quiz5.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_bali_quiz5.xml"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_12.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_12.png"
     },
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrong_option.xml.flat",
@@ -428,6 +504,10 @@
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_jawa_17.png"
     },
     {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_25.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_25.png"
+    },
+    {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_abouut.xml.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_abouut.xml"
     },
@@ -458,5 +538,13 @@
     {
         "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_7.png.flat",
         "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_7.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_28.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_28.png"
+    },
+    {
+        "merged": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aksara_bali_15.png.flat",
+        "source": "C:\\Users\\SU - NB0158\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\aksara_bali_15.png"
     }
 ]

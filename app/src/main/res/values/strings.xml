@@ -34,6 +34,7 @@
     <string name="answer">Answer</string>
     <string name="task_2">Isilah bagian kosong ini!</string>
     <string name="task_3">Aksara apakah di bawah ini?</string>
+    <string name="trophy">trophy</string>
     <string-array name="data_soal">
         <item>Pilihan Ganda 1</item>
         <item>Pilihan Ganda 2</item>
