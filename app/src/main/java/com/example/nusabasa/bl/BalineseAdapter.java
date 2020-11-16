@@ -63,6 +63,21 @@ public class BalineseAdapter extends RecyclerView.Adapter<BalineseAdapter.ListVi
                         context.startActivity(intent);
                         break;
                     }
+                    case "Tebak Aksara 1": {
+                        Intent intent = new Intent(context, BaliQuiz8Activity.class);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case "Tebak Aksara 2": {
+                        Intent intent = new Intent(context, BaliQuiz9Activity.class);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case "Tebak Aksara 3": {
+                        Intent intent = new Intent(context, BaliQuiz10Activity.class);
+                        context.startActivity(intent);
+                        break;
+                    }
                 }
             }
         });

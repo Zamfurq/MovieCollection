@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".bl.BaliQuiz7Activity"></activity>
+        <activity android:name=".bl.BaliQuiz10Activity"></activity>
+        <activity android:name=".bl.BaliQuiz9Activity" />
+        <activity android:name=".bl.BaliQuiz8Activity" />
+        <activity android:name=".jv.Quiz10Activity" />
+        <activity android:name=".jv.Quiz9Activity" />
+        <activity android:name=".jv.Quiz8Activity" />
+        <activity android:name=".bl.BaliQuiz7Activity" />
         <activity android:name=".bl.BaliQuiz6Activity" />
         <activity android:name=".bl.BaliQuiz5Activity" />
         <activity android:name=".jv.Quiz7Activity" />

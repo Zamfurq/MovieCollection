@@ -49,7 +49,7 @@ public class BaliQuestionData {
 
         BaliQuestion que5 = new BaliQuestion();
         que5.id = 5;
-        que5.question = "Makan";
+        que5.question = "Kakak Perempuan";
         que5.optionOne = "Wastana";
         que5.optionTwo = "Lunga";
         que5.optionThree = "Mbok";
@@ -217,7 +217,7 @@ public class BaliQuestionData {
         que2.question = "Tertawa";
         que2.optionOne = "Kedek";
         que2.optionTwo = "Ngutut";
-        que2.optionThree = "MMakecuh";
+        que2.optionThree = "Makecuh";
         que2.correctAnswer = 1;
         questionList.add(que2);
 

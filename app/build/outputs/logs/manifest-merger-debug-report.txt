@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\d6f2d911e6420eddbe1a6bafc49b6353\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\e3ce7e7cf0568bf54350349961cc10db\preference-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -31,25 +31,25 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SU - NB0158\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\336e4d7f5d818582899034e03216341f\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:5:5-45:19
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:5:5-51:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\d6f2d911e6420eddbe1a6bafc49b6353\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\d6f2d911e6420eddbe1a6bafc49b6353\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SU - NB0158\.gradle\caches\transforms-2\files-2.1\1401bb7fbb9efda3966e6cc62c20f201\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
@@ -74,112 +74,136 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SU
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.nusabasa.bl.BaliQuiz7Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:12:9-67
+activity#com.example.nusabasa.bl.BaliQuiz10Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:12:9-68
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:12:19-55
-activity#com.example.nusabasa.bl.BaliQuiz6Activity
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:12:19-56
+activity#com.example.nusabasa.bl.BaliQuiz9Activity
 ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:13:9-58
 	android:name
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:13:19-55
-activity#com.example.nusabasa.bl.BaliQuiz5Activity
+activity#com.example.nusabasa.bl.BaliQuiz8Activity
 ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:14:9-58
 	android:name
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:14:19-55
-activity#com.example.nusabasa.jv.Quiz7Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:15:9-54
+activity#com.example.nusabasa.jv.Quiz10Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:15:9-55
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:15:19-51
-activity#com.example.nusabasa.bl.BaliQuiz4Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:9-58
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:15:19-52
+activity#com.example.nusabasa.jv.Quiz9Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:9-54
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:19-55
-activity#com.example.nusabasa.bl.BaliQuiz3Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:17:9-58
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:19-51
+activity#com.example.nusabasa.jv.Quiz8Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:17:9-54
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:17:19-55
-activity#com.example.nusabasa.bl.BaliQuiz2Activity
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:17:19-51
+activity#com.example.nusabasa.bl.BaliQuiz7Activity
 ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:18:9-58
 	android:name
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:18:19-55
-activity#com.example.nusabasa.bl.BaliQuizActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:19:9-57
+activity#com.example.nusabasa.bl.BaliQuiz6Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:19:9-58
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:19:19-54
-activity#com.example.nusabasa.jv.Quiz6Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:20:9-54
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:19:19-55
+activity#com.example.nusabasa.bl.BaliQuiz5Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:20:9-58
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:20:19-51
-activity#com.example.nusabasa.jv.Quiz5Activity
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:20:19-55
+activity#com.example.nusabasa.jv.Quiz7Activity
 ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:21:9-54
 	android:name
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:21:19-51
-activity#com.example.nusabasa.jv.Quiz4Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:22:9-54
+activity#com.example.nusabasa.bl.BaliQuiz4Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:22:9-58
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:22:19-51
-activity#com.example.nusabasa.jv.Quiz3Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:23:9-54
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:22:19-55
+activity#com.example.nusabasa.bl.BaliQuiz3Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:23:9-58
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:23:19-51
-activity#com.example.nusabasa.jv.Quiz2Activity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:24:9-54
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:23:19-55
+activity#com.example.nusabasa.bl.BaliQuiz2Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:24:9-58
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:24:19-51
-activity#com.example.nusabasa.bl.BalineseActivity
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:24:19-55
+activity#com.example.nusabasa.bl.BaliQuizActivity
 ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:25:9-57
 	android:name
 		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:25:19-54
+activity#com.example.nusabasa.jv.Quiz6Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:26:19-51
+activity#com.example.nusabasa.jv.Quiz5Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:27:19-51
+activity#com.example.nusabasa.jv.Quiz4Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.example.nusabasa.jv.Quiz3Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:29:9-54
+	android:name
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:29:19-51
+activity#com.example.nusabasa.jv.Quiz2Activity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:30:19-51
+activity#com.example.nusabasa.bl.BalineseActivity
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:31:19-54
 activity#com.example.nusabasa.ResultActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:26:9-52
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:32:9-52
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:26:19-49
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:32:19-49
 activity#com.example.nusabasa.jv.QuizActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:27:9-53
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:33:9-53
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:27:19-50
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:33:19-50
 activity#com.example.nusabasa.jv.JavaneseActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:28:9-57
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:34:9-57
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:28:19-54
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:34:19-54
 activity#com.example.nusabasa.SplashActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:29:9-37:20
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:35:9-43:20
 	android:theme
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:31:13-47
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:37:13-47
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:30:13-43
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:36:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:41:27-74
 activity#com.example.nusabasa.AchievementActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:38:9-57
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:44:9-57
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:38:19-54
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:44:19-54
 activity#com.example.nusabasa.AbouutActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:39:9-52
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:45:9-52
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:39:19-49
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:45:19-49
 activity#com.example.nusabasa.SettingActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:40:9-53
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:46:9-53
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:40:19-50
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:46:19-50
 activity#com.example.nusabasa.PlayActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:41:9-50
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:47:9-50
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:41:19-47
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:47:19-47
 activity#com.example.nusabasa.MainActivity
-ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:42:9-44:50
+ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:48:9-50:50
 	android:theme
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:44:13-47
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:50:13-47
 	android:name
-		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:43:13-41
+		ADDED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml:49:13-41
 uses-sdk
 INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\SU - NB0158\AndroidStudioProjects\app\src\main\AndroidManifest.xml

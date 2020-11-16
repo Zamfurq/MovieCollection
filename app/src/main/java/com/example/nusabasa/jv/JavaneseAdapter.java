@@ -73,6 +73,21 @@ public class JavaneseAdapter extends RecyclerView.Adapter<JavaneseAdapter.ListVi
                         context.startActivity(intent);
                         break;
                     }
+                    case "Tebak Aksara 1": {
+                        Intent intent = new Intent(context, Quiz8Activity.class);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case "Tebak Aksara 2": {
+                        Intent intent = new Intent(context, Quiz9Activity.class);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case "Tebak Aksara 3": {
+                        Intent intent = new Intent(context, Quiz10Activity.class);
+                        context.startActivity(intent);
+                        break;
+                    }
                 }
             }
         });

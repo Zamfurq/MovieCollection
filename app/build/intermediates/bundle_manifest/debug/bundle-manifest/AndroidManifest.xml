@@ -18,6 +18,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz10Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz9Activity" />
+        <activity android:name="com.example.nusabasa.bl.BaliQuiz8Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz10Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz9Activity" />
+        <activity android:name="com.example.nusabasa.jv.Quiz8Activity" />
         <activity android:name="com.example.nusabasa.bl.BaliQuiz7Activity" />
         <activity android:name="com.example.nusabasa.bl.BaliQuiz6Activity" />
         <activity android:name="com.example.nusabasa.bl.BaliQuiz5Activity" />
