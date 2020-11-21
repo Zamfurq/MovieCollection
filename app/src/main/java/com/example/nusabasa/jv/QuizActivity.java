@@ -22,7 +22,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
     private int currentPosition = 1;
     private int selectedOption = 0;
     private int correctAnswers = 0;
-    private ArrayList<Question> questionList;
+    private ArrayList<Question> questionList = null;
     private TextView tvQuestion;
     private TextView tvOptionOne;
     private TextView tvOptionTwo;
@@ -30,13 +30,14 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
     private TextView tvProgress;
     private Button btnSubmit;
     private ProgressBar progressBar;
+    public static final String EXTRA_QUESTION = "extra_question";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
 
-        questionList = QuestionData.getQuestions3();
+        questionList = getIntent().getParcelableArrayListExtra(EXTRA_QUESTION);
         tvOptionOne = findViewById(R.id.tv_option_one);
         tvOptionTwo = findViewById(R.id.tv_option_two);
         tvOptionThree = findViewById(R.id.tv_option_three);

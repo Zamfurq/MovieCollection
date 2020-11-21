@@ -39,52 +39,72 @@ public class JavaneseAdapter extends RecyclerView.Adapter<JavaneseAdapter.ListVi
                 Context context = v.getContext();
                 switch (assignment.getName()) {
                     case "Pilihan Ganda 1": {
+                        ArrayList<Question> item = QuestionData.getQuestions3();
                         Intent intent = new Intent(context, QuizActivity.class);
+                        intent.putParcelableArrayListExtra(QuizActivity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Pilihan Ganda 2": {
-                        Intent intent = new Intent(context, Quiz2Activity.class);
+                        Intent intent = new Intent(context, QuizActivity.class);
+                        ArrayList<Question> item = QuestionData.getQuestions4();
+                        intent.putParcelableArrayListExtra(QuizActivity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Pilihan Ganda 3": {
-                        Intent intent = new Intent(context, Quiz3Activity.class);
+                        Intent intent = new Intent(context, QuizActivity.class);
+                        ArrayList<Question> item = QuestionData.getQuestions5();
+                        intent.putParcelableArrayListExtra(QuizActivity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Pilihan Ganda 4": {
-                        Intent intent = new Intent(context, Quiz4Activity.class);
+                        Intent intent = new Intent(context, QuizActivity.class);
+                        ArrayList<Question> item = QuestionData.getQuestions6();
+                        intent.putParcelableArrayListExtra(QuizActivity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Pilihan Ganda 5": {
-                        Intent intent = new Intent(context, Quiz5Activity.class);
+                        Intent intent = new Intent(context, QuizActivity.class);
+                        ArrayList<Question> item = QuestionData.getQuestions7();
+                        intent.putParcelableArrayListExtra(QuizActivity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Isian 1": {
                         Intent intent = new Intent(context, Quiz6Activity.class);
+                        ArrayList<FillTextQuestion> item = FillTextQuestionData.getQuestions();
+                        intent.putParcelableArrayListExtra(Quiz6Activity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Isian 2": {
-                        Intent intent = new Intent(context, Quiz7Activity.class);
+                        Intent intent = new Intent(context, Quiz6Activity.class);
+                        ArrayList<FillTextQuestion> item = FillTextQuestionData.getQuestions2();
+                        intent.putParcelableArrayListExtra(Quiz6Activity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Tebak Aksara 1": {
                         Intent intent = new Intent(context, Quiz8Activity.class);
+                        ArrayList<AksaraJawaQuestion> item = AksaraJawaQuestionData.getAksaraQuestion();
+                        intent.putParcelableArrayListExtra(Quiz8Activity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Tebak Aksara 2": {
-                        Intent intent = new Intent(context, Quiz9Activity.class);
+                        Intent intent = new Intent(context, Quiz8Activity.class);
+                        ArrayList<AksaraJawaQuestion> item = AksaraJawaQuestionData.getAksaraQuestion2();
+                        intent.putParcelableArrayListExtra(Quiz8Activity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }
                     case "Tebak Aksara 3": {
-                        Intent intent = new Intent(context, Quiz10Activity.class);
+                        Intent intent = new Intent(context, Quiz8Activity.class);
+                        ArrayList<AksaraJawaQuestion> item = AksaraJawaQuestionData.getAksaraQuestion3();
+                        intent.putParcelableArrayListExtra(Quiz8Activity.EXTRA_QUESTION, item);
                         context.startActivity(intent);
                         break;
                     }

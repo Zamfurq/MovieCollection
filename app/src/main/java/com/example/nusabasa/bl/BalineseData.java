@@ -7,8 +7,6 @@ public class BalineseData {
             "Pilihan Ganda 1",
             "Pilihan Ganda 2",
             "Pilihan Ganda 3",
-            "Pilihan Ganda 4",
-            "Pilihan Ganda 5",
             "Isian 1",
             "Isian 2",
             "Tebak Aksara 1",

@@ -23,7 +23,7 @@ public class Quiz8Activity extends AppCompatActivity implements View.OnClickList
     private int currentPosition = 1;
     private int selectedOption = 0;
     private int correctAnswers = 0;
-    private ArrayList<AksaraJawaQuestion> questionList;
+    private ArrayList<AksaraJawaQuestion> questionList = null;
     private ImageView imgAksara;
     private TextView tvOptionOne;
     private TextView tvOptionTwo;
@@ -31,13 +31,14 @@ public class Quiz8Activity extends AppCompatActivity implements View.OnClickList
     private TextView tvProgress;
     private Button btnSubmit;
     private ProgressBar progressBar;
+    public static final String EXTRA_QUESTION = "extra_question";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz8);
 
-        questionList = AksaraJawaQuestionData.getAksaraQuestion();
+        questionList = getIntent().getParcelableArrayListExtra(EXTRA_QUESTION);
         tvOptionOne = findViewById(R.id.tv_option_one8);
         tvOptionTwo = findViewById(R.id.tv_option_two8);
         tvOptionThree = findViewById(R.id.tv_option_three8);

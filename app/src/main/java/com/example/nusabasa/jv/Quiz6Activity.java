@@ -20,19 +20,20 @@ import java.util.ArrayList;
 public class Quiz6Activity extends AppCompatActivity implements View.OnClickListener {
     private int currentPosition = 1;
     private int correctAnswers = 0;
-    private ArrayList<FillTextQuestion> questionList;
+    private ArrayList<FillTextQuestion> questionList = null;
     private TextView tvQuestion;
     private EditText editText;
     private TextView tvProgress;
     private Button btnSubmit;
     private ProgressBar progressBar;
+    public static final String EXTRA_QUESTION = "extra_question";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz6);
 
-        questionList = FillTextQuestionData.getQuestions();
+        questionList = getIntent().getParcelableArrayListExtra(EXTRA_QUESTION);
         btnSubmit = findViewById(R.id.btn_submit6);
         editText = findViewById(R.id.edit_text);
         tvProgress = findViewById(R.id.tv_progress6);
