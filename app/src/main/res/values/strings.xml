@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Movie Collection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_collection">MOVIE COLLECTION</string>
+    <string name="version">Ver 1.0</string>
+    <string name="attribution">Movie icon by Freepik</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="movie">Movie</string>
+    <string name="series">TV Series</string>
+    <string name="share_text">Let\'s watch %s</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_year">Release Date</string>
+    <string name="director">Director</string>
+    <string name="director_name">Director name</string>
+    <string name="country_of_origin">Country of Origin</string>
+    <string name="country">Country</string>
+    <string name="no_of_episode">No. of episode</string>
+    <string name="episode_count">Episode count</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="synopsis_detail">Synopsis detail</string>
+    <string name="original_language">Original Language</string>
+    <string name="language">Language</string>
+    <string name="genre_name">Genre Name</string>
+    <string name="duration">Duration</string>
+    <string name="hours">Hours</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_series">Detail TV Series</string>
+    <string name="user_rating">User Rating</string>
+    <string name="vote_Average">vote average</string>
+    <string name="first_episode_aired">First Episode Aired</string>
+    <string name="menu_bookmark">Menu Bookmark</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="undo">Batalkan Unbookmark?</string>
+    <string name="ok">Ya</string>
+    <string name="sort_a_z">Sort A-Z</string>
+    <string name="sort_z_a">Sort Z-A</string>
+    <string name="sort_default">Default</string>
+</resources>
